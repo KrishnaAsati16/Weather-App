@@ -50,7 +50,7 @@ npm run build
    const api_key = "YOUR_API_KEY";
 ```
 
-## 📸 Preview
+# 📸 Preview
 
 > Weather app with live location detection and city search.
 
